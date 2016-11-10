@@ -1,0 +1,2 @@
+# gb
+gabrielei palindromas
